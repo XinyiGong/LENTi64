@@ -1,0 +1,1 @@
+for /R E:\MATIN_2015_DATA_1\ %%i in (*.gz) do winrar x -inul %%i %%i\..
